@@ -4,5 +4,5 @@
 * I have Implemented RESTful APIs using Java servlets, retrieved real Twitch resources using Twitch API and stored data in MySQL.
 * I Improved personalized recommendation by applying content-based recommendation algorithm to the system.
 
-#### I have deployed the service to AWS EC2 for better stability.
+#### I have deployed the service to AWS EC2 for better stability. The demo is accessible through this link <a href="http://54.175.130.159" target="_blank">Twitch Interface</a>.
 
